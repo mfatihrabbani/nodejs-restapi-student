@@ -1,0 +1,6 @@
+CREATE TABLE datamurid(
+    id varchar(255) PRIMARY KEY NOT NULL,
+    nama_siswa varchar(255) NOT NULL,
+    kelas varchar(255) NOT NULL,
+    jurusan varchar(255) NOT NULL
+) engine = innoDB;

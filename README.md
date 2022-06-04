@@ -13,7 +13,6 @@ Request :
 
 ```json
 {
-    "id" : "string, unique",
     "nama" : "string",
     "kelas" : "number",
     "jurusan" : "string"
